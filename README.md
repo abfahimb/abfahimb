@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-I'm a passionate frontend developer with a focus on creating secure, scalable, and high-performance applications.I’m excited to announce the release of two npm packages: encrypt-storejs and encrypt-cookiejs!
+I'm a passionate frontend developer with a focus on creating secure, scalable, and high-performance applications.Exciting news! I've just released two npm packages: encrypt-storejs and encrypt-cookiejs!
 
 encrypt-storejs [encrypt-storejs](https://www.npmjs.com/package/encrypt-storejs) is a lightweight library that securely stores data in the browser’s local storage using advanced encryption techniques, ensuring your data remains protected.
 
