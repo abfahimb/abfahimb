@@ -4,7 +4,7 @@ I'm a passionate frontend developer with a focus on creating secure, scalable, a
 
 encrypt-storejs [encrypt-storejs](https://www.npmjs.com/package/encrypt-storejs) is a lightweight library that securely stores data in the browser’s local storage using advanced encryption techniques, ensuring your data remains protected.
 
-js-cookie-encrypt [encrypt-cookiejs](https://www.npmjs.com/package/js-cookie-encrypt) offers a similar solution for browser cookies, using encryption to securely manage sensitive data stored in cookies, providing enhanced client-side security. Both packages help safeguard your client-side storage with ease!
+js-cookie-encrypt [js-cookie-encrypt](https://www.npmjs.com/package/js-cookie-encrypt) offers a similar solution for browser cookies, using encryption to securely manage sensitive data stored in cookies, providing enhanced client-side security. Both packages help safeguard your client-side storage with ease!
 
 ## 📦 encrypt-storejs
 **encrypt-storejs** is a lightweight JavaScript library designed specifically for securely storing data in the browser's local storage. By leveraging advanced encryption techniques, it ensures that sensitive information remains safe from unauthorized access—making it ideal for projects where data privacy is a priority.
